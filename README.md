@@ -1,5 +1,6 @@
 # wakabahtml5
-A small html5 port of wakaba.swf using howler.js.  
+a small html5 port of wakaba.swf using howler.js
+live demo available at http://flootah.com/projects/wakaba/
 
 ### About
 
